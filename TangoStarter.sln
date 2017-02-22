@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangoStarter", "TangoStarter.csproj", "{05D13FAF-8477-4164-EADC-CD6A6C59917A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangoStarter.Editor", "TangoStarter.Editor.csproj", "{E54E7A95-A5F0-135C-A00A-B63FA3D0DD6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05D13FAF-8477-4164-EADC-CD6A6C59917A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D13FAF-8477-4164-EADC-CD6A6C59917A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D13FAF-8477-4164-EADC-CD6A6C59917A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D13FAF-8477-4164-EADC-CD6A6C59917A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E54E7A95-A5F0-135C-A00A-B63FA3D0DD6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54E7A95-A5F0-135C-A00A-B63FA3D0DD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54E7A95-A5F0-135C-A00A-B63FA3D0DD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54E7A95-A5F0-135C-A00A-B63FA3D0DD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
